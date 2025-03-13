@@ -1,0 +1,7 @@
+# Global:
+**/.DS_Store
+
+
+# ARM Assembly Projects:
+# ignoring assembled files:
+ARM\ Assembly/**/*.o

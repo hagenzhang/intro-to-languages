@@ -1,0 +1,4 @@
+
+# ARM Assembly Projects:
+# ignoring assembled files:
+Arm\ Assembly\**\*.o

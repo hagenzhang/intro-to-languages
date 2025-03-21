@@ -1,7 +1,9 @@
 # Global:
 **/.DS_Store
+**/.vscode
 
 
-# ARM Assembly Projects:
+### ARM Assembly Projects:
 # ignoring assembled files:
 ARM\ Assembly/**/*.o
+

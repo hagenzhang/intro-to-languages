@@ -11,7 +11,6 @@ _main:
     mov x2, #14         // moving length of message to x2
     mov w8, #64         // passing in write syscall value
     svc #0              // making the actual syscall
-    b .                 // infinite looping 
 
 
 // run via:

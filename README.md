@@ -12,7 +12,9 @@ The goal of this repo is to encourage me to work my way up to bigger projects, a
 This repo currently contains projects in the following languages:
  - ARM Assembly
  - C
+ - Python
 
+Every single language will be divided into their own independent branch.
 
-Each project will contain a readme detailing why I did it, and what I learned from it.
+Each project will contain a mini readme detailing why I did it, as well as what I learned from it.
 

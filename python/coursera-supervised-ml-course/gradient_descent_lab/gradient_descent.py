@@ -1,7 +1,7 @@
 '''
 Based off the Gradient Descent Lab from the Coursera course titled:
 "Supervised Machine Learning: Regression and Classification".
-(Lab 04)
+(Lab 04, Module 1)
 
 Goal: implementing gradient descent in a linear regression algorithm
 '''

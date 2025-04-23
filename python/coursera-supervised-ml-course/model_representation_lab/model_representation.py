@@ -1,7 +1,7 @@
 '''
 Based off the Model Representation Lab from the Coursera course titled:
 "Supervised Machine Learning: Regression and Classification".
-(Lab 02)
+(Lab 02, Module 1)
 
 Goal: displaying a graph in matplotlib
 '''
